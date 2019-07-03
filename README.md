@@ -5,6 +5,10 @@
   <img src="logo.png" width="600"/>
 </p>
 
+## Design doc
+We are making the arm in this [video](https://www.youtube.com/watch?v=RdmdFIhCo4M)
+It is based on this [design](https://www.thingiverse.com/thing:3327968)
+
 ## Getting Started
 
 
