@@ -6,8 +6,11 @@
 </p>
 
 ## Design doc
-We are making the arm in this [video](https://www.youtube.com/watch?v=RdmdFIhCo4M)
-It is based on this [design](https://www.thingiverse.com/thing:3327968)
+- We are making the arm in this [video](https://www.youtube.com/watch?v=RdmdFIhCo4M)
+- It is based on this [design](https://www.thingiverse.com/thing:3327968)
+
+## Long term we mighht switch to a stronger arm capable of lifing a water boiler
+- [Candidate](https://www.indiegogo.com/projects/xarm-cost-effective-intuitive-industrial-robot-arm#/)
 
 ## Getting Started
 
