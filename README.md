@@ -14,6 +14,10 @@
 
 ## Getting Started
 
+## We are looking at two options for printing the arm
+
+* [folkeverkstedet på deichman](https://oslo.getshop.com/verksted_kalender.html)
+* [bitraf](https://bitraf.no/)
 
 ## Requirements
 
