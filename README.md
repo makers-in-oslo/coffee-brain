@@ -21,10 +21,10 @@
 
 There are other options: 
 <p align="center">
-  <img src="logo.png" width="600"/>
+  <img src="Map of makerspaces.jpg" width="600"/>
 </p>
 <p align="center">
-  <img src="logo.png" width="600"/>
+  <img src="Names of makerspaces.jpg" width="600"/>
 </p>
 
 ## Folkeverkstedet
@@ -33,6 +33,8 @@ There are other options:
 * Gratis materiale?
 
 ## Requirements
+
+TODO: What are the requirements of the 3D printer?
 
 ## Authors
 
