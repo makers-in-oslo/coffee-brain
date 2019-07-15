@@ -19,6 +19,19 @@
 * [folkeverkstedet på deichman](https://oslo.getshop.com/verksted_kalender.html)
 * [bitraf](https://bitraf.no/)
 
+There are other options: 
+<p align="center">
+  <img src="logo.png" width="600"/>
+</p>
+<p align="center">
+  <img src="logo.png" width="600"/>
+</p>
+
+## Folkeverkstedet
+
+* To Ultimaker<sup>2+</sup> 3D-printere som kan lånes.
+* Gratis materiale?
+
 ## Requirements
 
 ## Authors
