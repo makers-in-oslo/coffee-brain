@@ -9,7 +9,7 @@ Since motors use SI, these machine screws are SI. The exception is the small act
 
 ### Medium
 - 1 x 4 x M3 flathead screws 6mm long
-- 1 x 4 x 4-40
+- 1 x 4 x 4-40 (from the explenation, could be 8?)
 
 ### Big
 - 2 x 4 x M3 flathead screws 6mm long
