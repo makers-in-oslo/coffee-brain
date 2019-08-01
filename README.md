@@ -13,6 +13,9 @@
 - [Candidate 1](https://www.indiegogo.com/projects/xarm-cost-effective-intuitive-industrial-robot-arm#/)
 - [Candidate 2](https://www.youtube.com/watch?v=jsZvhDbnfRo)
 
+## how to control the robot
+http://wiki.ros.org/openai_ros
+
 ## Getting Started
 
 ## We are looking at two options for printing the arm
