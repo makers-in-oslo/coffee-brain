@@ -62,3 +62,5 @@ https://www.aliexpress.com/item/20-pcs-2-Pin-Screw-blue-green-PCB-Terminal-Block
 
 26AWG Silicone Ultra Flexible Wire for 24v (Use 2 of the 4 wires)
 https://www.aliexpress.com/item/2metre-26AWG-28AWG-30AWG-Silicone-Wire-Ultra-Flexiable-Test-Line-3P-4P-6P-0-08mm-Tinned/32870367030.html
+
+# Credits to [John Lauer](https://github.com/chilipeppr)
