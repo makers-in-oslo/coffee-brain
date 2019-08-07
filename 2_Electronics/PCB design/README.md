@@ -1,5 +1,6 @@
 # robot-actuator-controller-v1
-This is a controller for the WE-R2.4 robot on Thingiverse.
+This is a controller for the WE-R2.4 robot on Thingiverse. 
+Original repository: https://github.com/chilipeppr/robot-actuator-controller-v1.
 
 It has an ESP32 at the heart of the controller to enable control of the actuator via Wifi or Bluetooth. There is a DC to DC converter to step down the 24v driving the DRV8825 stepper motor driver to 5V for powering the ESP32. The DRV8825 has all ports connected into the ESP32 to send step and direction pulses for control of the stepper motor.
 
