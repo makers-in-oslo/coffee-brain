@@ -10,7 +10,8 @@
   
 - With additional features from this redesign by John Lauer: https://www.youtube.com/watch?v=tEbJV32GyYU
 
-## Long term we could consider a switch to a stronger arm capable of lifing a water boiler
+## Alternative robot arms
+- **Long term we could consider a switch to a stronger arm capable of lifting a water boiler**
 - [Candidate 1](https://www.indiegogo.com/projects/xarm-cost-effective-intuitive-industrial-robot-arm#/)
 - [Candidate 2](https://www.youtube.com/watch?v=jsZvhDbnfRo)
 
