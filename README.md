@@ -1,5 +1,4 @@
-# Coffee Brain
-## The Coffee Robot
+# Coffee Brain - The Coffee Robot
 
 <p align="center">
   <img src="logo.png" width="400"/>
