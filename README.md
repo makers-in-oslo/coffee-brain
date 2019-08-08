@@ -2,33 +2,33 @@
 ## The Coffee Robot
 
 <p align="center">
-  <img src="logo.png" width="600"/>
+  <img src="logo.png" width="400"/>
 </p>
 
 ## Design doc
 - We are making the arm in this [video](https://www.youtube.com/watch?v=RdmdFIhCo4M)
-- It is based on this [design](https://www.thingiverse.com/thing:3327968)
+- It is based on this [design](https://www.thingiverse.com/thing:3327968) from Thingiverse.
+  
+- With additional features from this redesign by John Lauer: https://www.youtube.com/watch?v=tEbJV32GyYU
 
 ## Long term we could consider a switch to a stronger arm capable of lifing a water boiler
 - [Candidate 1](https://www.indiegogo.com/projects/xarm-cost-effective-intuitive-industrial-robot-arm#/)
 - [Candidate 2](https://www.youtube.com/watch?v=jsZvhDbnfRo)
 
-## how to control the robot
+## How to control the robot
 http://wiki.ros.org/openai_ros
 
-## Getting Started
-
-## We are looking at two options for printing the arm
+## Options for 3D printing robot arm
 
 * [folkeverkstedet på deichman](https://oslo.getshop.com/verksted_kalender.html)
 * [bitraf](https://bitraf.no/)
 
 There are other options: 
 <p align="center">
-  <img src="Map of makerspaces.jpg" width="600"/>
+  <img src="Map of makerspaces.jpg" width="500"/>
 </p>
 <p align="center">
-  <img src="Names of makerspaces.jpg" width="600"/>
+  <img src="Names of makerspaces.jpg" width="500"/>
 </p>
 
 ## Driver/Stepper motor/Arduino tutorial
@@ -37,6 +37,7 @@ https://www.youtube.com/watch?v=V2AywTy9_nk
 ## Folkeverkstedet
 
 * To Ultimaker<sup>2+</sup> 3D-printere som kan lånes.
+  * Booking: https://oslo.getshop.com/verksted_kalender.html
 * Gratis materiale?
 
 ## Requirements
