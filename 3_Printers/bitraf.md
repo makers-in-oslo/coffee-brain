@@ -17,6 +17,8 @@ The 10 printers are:
 - 1 Home made printer called Blackbot
 - 1 Small home made printer
 
+
+
 ## The online information is outdated
 bitraf has some [information](https://bitraf.no/wiki/3D_printer) regarding its 3D printers
 
@@ -24,8 +26,18 @@ bitraf has some [information](https://bitraf.no/wiki/3D_printer) regarding its 3
 - [Bigbot](https://bitraf.no/wiki/Bigbot_Instruksjoner) 
 - [Blackbot](https://bitraf.no/wiki/Blackbot_Instruksjoner)
 
+At the moment, only bigbot from the list is working.
 
-At the moment, only bigbot (which is the 3rd biggest printer in the room) is working.
+## There is a second list with updated information 
+
+If you check out [this](https://bitraf.no/wiki/Utstyr_på_Bitraf#Utstyr_i_3D-printer-rommet) you will find information on 7 of the printers. 
+
+![image](printers.png)
+There information on each of these links
+It might be possible to get stuff to work after some testing
+
+
+
 
 ## Testing of Bigbot
 - This uses octoprint which is a online interface for printing
