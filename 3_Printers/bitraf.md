@@ -28,8 +28,20 @@ bitraf has some [information](https://bitraf.no/wiki/3D_printer) regarding its 3
 At the moment, only bigbot (which is the 3rd biggest printer in the room) is working.
 
 ## Testing of Bigbot
+- This uses octoprint which is a online interface for printing
+- Cura marketplace has a plugin that allows you to connect to octoprint
+- It seems it is intentionally hard to get to work at bitraf
+- Uploading the stl files directly to the octoprint server and doing the slicing there seems to be the easiest way
+- For å gjøre det er det bare å logge på bitraf nettet og 
+gå til http://bigbot.local
+- Første print var av shouldershell.stl, det feilet 
+- Konklusjon, platen under er for slitt til at bifgbot kan brukes
 
 ## Testing of ANYCUBIC
+- Klarte ikke å bytte filament på denne
+- Det ligger en lapp som sier 
+
+## Testing av Orinal Prusa
 
 ## Testing of printbot plus
 
