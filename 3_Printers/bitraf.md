@@ -8,10 +8,10 @@ The 10 printers are:
     - NotBot
     - BoxBot
     - YarrBot (doesn't work, getting thrown?)
-- 1 Series 1 Pro 3001 (works?)
+- 1 Series 1 Pro 3001 (works? failed testing)
     - Bigbot
 - 1 ANYCUBIC (works?)
-- 1 Original Prusa (*works*)
+- 1 Original Prusa (*teste, works*)
 - 1 printbot plus
 - 1 Vertex, welleman (doesn't work, getting thrown?)
 - 1 Home made printer called Blackbot
@@ -39,9 +39,13 @@ gå til http://bigbot.local
 
 ## Testing of ANYCUBIC
 - Klarte ikke å bytte filament på denne
-- Det ligger en lapp som sier 
+- Det ligger en lapp som sier at det ble installert men ikke testet i mars
+- Med litt prøving og feiling klarte jeg å bytte filament (Det er veldig likt atomic pull for ultimaker)
+- Klarer jeg leveling kan denne skrive ut alle deler ...
 
 ## Testing av Orinal Prusa
+- Tested with the prusa slicer
+- It need sd cards. To get information from mac to a SD card, use [this](https://www.dropbox.com/sh/zbifeqytlzn26l5/AAAw1eMunT_47RaJop2QJn_ya?dl=0) dropbox folder. It has the bitraf computer as one of its users
 
 ## Testing of printbot plus
 
