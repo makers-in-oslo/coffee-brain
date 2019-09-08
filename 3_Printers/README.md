@@ -54,6 +54,7 @@ gå til http://bigbot.local
 - Det ligger en lapp som sier at det ble installert men ikke testet i mars
 - Med litt prøving og feiling klarte jeg å bytte filament (Det er veldig likt atomic pull for ultimaker)
 - Klarer jeg leveling kan denne skrive ut alle deler ...
+- Vi har funnet orginal [instruksjonen](https://bitraf.no/wiki/Anycubic_3D_printer)
 
 ## Testing av Orinal Prusa
 - Tested with the prusa slicer
